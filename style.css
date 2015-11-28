@@ -1,0 +1,35 @@
+.jumbotron {
+    margin-top: 50px;
+    font-family: 'Lato', sans-serif;
+    height: 100vh;
+    font-weight: 100;
+    margin-top: 50px;
+    width: 100%;
+    overflow-x: hidden;
+    background-image:url(images/headerPhoto2.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+}
+
+.jumbotron img {
+	position: relative;
+	display: block;
+
+    background-size: cover;
+    display: inline-block;
+    height: 100vh;
+}
+
+#footer {
+    margin-top: 50px;
+    font-family: 'Lato', sans-serif;
+    font-size: .9em;
+    color: #24ACAE;
+    border-top: 1px solid #24ACAE;
+    padding-top: 5px;
+}
+
+.container {
+    font-family: 'Lato', sans-serif;
+}
