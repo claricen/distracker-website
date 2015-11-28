@@ -21,6 +21,28 @@
     height: 100vh;
 }
 
+.body {
+    font-family: 'Lato', sans-serif;
+    background-image:url(images/background.png);
+    background-repeat:repeat;
+
+    background-position: center;
+}
+
+.meetDoodle{
+    font-family: 'Lato', sans-serif;
+    font-weight: 200;
+    color: black;
+    font-size: 3.6em;
+}
+
+.header{
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: black;
+    font-size: 4.5em;
+}
+
 #footer {
     margin-top: 50px;
     font-family: 'Lato', sans-serif;
@@ -30,6 +52,4 @@
     padding-top: 5px;
 }
 
-.container {
-    font-family: 'Lato', sans-serif;
-}
+
